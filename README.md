@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParagrajK
 - 👀 I’m interested in coding
-- 🌱 I'm an enthusiastic Android Developer. Currently, learning SpingFramework.
+- 🌱 I'm an enthusiastic Android, Microservices, Spring Boot, Kotlin developer.
 - 📫 How to reach me - Send me an email on kaleparag20@gmail.com
 
 <!---
